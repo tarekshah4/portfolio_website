@@ -44,7 +44,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h2 style={{marginTop: '-280px', marginLeft: '0px', color: 'black'}}><b>I enjoy traveling</b></h2>
-                          <p><a className="btn btn-primary btn-learn" href="/gallery/gallery.html" target="_blank" rel="noopener noreferrer" style={{ color: 'black', borderColor: 'black', marginTop: '-30px', marginLeft: '5px'}}>View Gallery <i className="icon-camera"/></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="/gallery.html" target="_blank" rel="noopener noreferrer" style={{ color: 'black', borderColor: 'black', marginTop: '-30px', marginLeft: '5px'}}>View Gallery <i className="icon-camera"/></a></p>
                         </div>
                       </div>
                     </div>
