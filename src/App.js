@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
-import Sidebar from './components/sidebar'
-import Introduction from './components/introduction'
-import About from './components/about'
-import Experience from './components/experience'
-import Timeline from './components/timeline'
+import Sidebar from './components/sidebar';
+import Introduction from './components/introduction';
+import About from './components/about';
+import Experience from './components/experience';
+import Timeline from './components/timeline';
+import Gallery from './components/gallery';
 
 class App extends Component {
   render() {
@@ -17,6 +18,7 @@ class App extends Component {
             <About></About>
             <Experience></Experience>
             <Timeline></Timeline>
+            <Gallery></Gallery>
           </div>
         </div>
       </div>

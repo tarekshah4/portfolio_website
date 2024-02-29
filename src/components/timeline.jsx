@@ -14,7 +14,7 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon">
                         <img src="images/vt_logo.png" alt="VT Icon" width="70" height="35" style={{ marginTop: '25px' }}/>
@@ -51,7 +51,7 @@ export default class Timeline extends Component {
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon i">
                       <img src="images/altamira_logo.jpg" alt="Altamira Icon" width="77" height="75" style={{ marginTop: '3px' }}/>

@@ -19,8 +19,8 @@ export default class Sidebar extends Component {
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                   <li><a href="#about" data-nav-section="about">About</a></li>
                   <li><a href="#experience" data-nav-section="experience">Experience</a></li>
-                  {/* <li><a href="#" data-nav-section="blog">Blog</a></li> */}
                   <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
+                  <li><a href="#gallery" data-nav-section="gallery">Gallery</a></li>
                 </ul>
               </div>
             </nav>
